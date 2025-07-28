@@ -1,0 +1,8 @@
+# Ignore the SQLite database
+#SSh key is 1122
+
+
+sqlite3.db
+
+# Ignore Python virtual environment
+.venv/
